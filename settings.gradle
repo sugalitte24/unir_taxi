@@ -1,0 +1,2 @@
+rootProject.name = 'unir-taxi'
+include 'api-gateway', 'discovery-server', 'user_unir', 'driver_unir', 'demo'
