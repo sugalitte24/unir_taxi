@@ -7,7 +7,7 @@ import jakarta.persistence.Table;
 import java.util.UUID;
 import lombok.*;
 
-@Table
+@Table(name = "driver", schema = "drivers")
 @Entity
 @Getter
 @Setter
